@@ -21,6 +21,6 @@
   "homepage": "https://github.com/interglobalmedia/built-in-html5-form-validation#readme",
   "dependencies": {
     "gh-pages": "^2.2.0",
-    "node-sass": "^4.13.1"
+    "node-sass": "^4.14.1"
   }
 }
