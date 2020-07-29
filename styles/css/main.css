@@ -75,7 +75,8 @@ input[name="password"]:-moz-placeholder {
   color: #228b22; }
 
 input:invalid {
-  color: #c60000; }
+  color: #c60000;
+  background: lightpink; }
 
 .center {
   text-align: center;
